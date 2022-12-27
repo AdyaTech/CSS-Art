@@ -9,4 +9,5 @@ Art created by using vanilla CSS
 
 ## Output
 1. Diamond
+
 ![This is the Diamond output](https://github.com/AdyaTech/CSS-Art/blob/main/Diamond/Diamond.png)
