@@ -14,6 +14,7 @@ Art created by using vanilla CSS
 ![This is the Diamond output](https://github.com/AdyaTech/CSS-Art/blob/main/Diamond/Diamond.png)
 
 
+
 2. Camera
 
 ![This is the Camera output](https://github.com/AdyaTech/CSS-Art/blob/main/Camera/camera.png)
