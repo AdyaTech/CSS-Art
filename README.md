@@ -15,4 +15,5 @@ Art created by using vanilla CSS
 
 
 2. Camera
+
 ![This is the Camera output](https://github.com/AdyaTech/CSS-Art/blob/main/Camera/camera.png)
