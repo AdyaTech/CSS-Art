@@ -6,6 +6,7 @@ Art created by using vanilla CSS
 |-------|---------|------|
 | 1 | Diamond | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Diamond) |
 | 2 | Camera | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Camera) |
+| 3 | Batman | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Batman) |
 
 
 ## Output
@@ -18,3 +19,8 @@ Art created by using vanilla CSS
 2. Camera
 
 ![This is the Camera output](https://github.com/AdyaTech/CSS-Art/blob/main/Camera/camera.png)
+
+
+
+3. Batman
+![This is the Batman output](https://github.com/AdyaTech/CSS-Art/blob/main/Batman/Batman.png)
