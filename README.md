@@ -23,4 +23,5 @@ Art created by using vanilla CSS
 
 
 3. Batman
+
 ![This is the Batman output](https://github.com/AdyaTech/CSS-Art/blob/main/Batman/Batman.png)
