@@ -8,6 +8,7 @@ Art created by using vanilla CSS
 | 2 | Camera | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Camera) |
 | 3 | Batman | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Batman) |
 | 4 | Captain America | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Captain%20America) |
+| 5 | Beaver | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Beaver) |
 
 
 ## Output
@@ -33,3 +34,10 @@ Art created by using vanilla CSS
 4. Captain America
 
 ![This is the Captain America output](https://github.com/AdyaTech/CSS-Art/blob/main/Captain%20America/output.png)
+
+
+
+
+5. Beaver
+
+![This is the Beaver output](https://github.com/AdyaTech/CSS-Art/blob/main/Beaver/Beaver.png)
