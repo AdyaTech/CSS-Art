@@ -9,7 +9,7 @@ Art created by using vanilla CSS
 | 3 | Batman | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Batman) |
 | 4 | Captain America | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Captain%20America) |
 | 5 | Beaver | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Beaver) |
-
+| 6 | Panda | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Panda) |
 
 ## Output
 1. Diamond
@@ -41,3 +41,10 @@ Art created by using vanilla CSS
 5. Beaver
 
 ![This is the Beaver output](https://github.com/AdyaTech/CSS-Art/blob/main/Beaver/Beaver.png)
+
+
+
+
+5. Panda
+
+![This is the Panda output](https://github.com/AdyaTech/CSS-Art/blob/main/Panda/Panda.png)
