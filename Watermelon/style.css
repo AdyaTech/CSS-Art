@@ -1,0 +1,46 @@
+html {
+    --bg: #bec;
+    background: var(--bg);
+  }
+
+div {
+    background:  radial-gradient(farthest-side at 50% 0%, #e00, red 91%, #ffd 0 93%, #0c0 0, green 99.9%, transparent 0) 50% 50% / 90% 45%,
+    radial-gradient(closest-side, #aba8 60%, #0000) 50% 92.5% / 90% 5%;
+    background-repeat: no-repeat;
+  background-color: var(--bg);
+    --bg: #bec;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90vmin;
+    height: 90vmin;
+}
+
+div::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    width: 2%;
+    height: 3.5%;
+    background: black;
+    border-radius: 100% / 125% 125% 60% 60%;
+    box-shadow:
+      /* bite */
+      -22vmin -5vmin 0 1.5vmin var(--bg),
+      -18vmin -3vmin 0 1.5vmin var(--bg),
+      -14vmin -5vmin 0 2vmin var(--bg),
+      /* seeds */
+      -17vmin 5vmin,
+      -10vmin 15vmin,
+      21vmin 25vmin,
+      5vmin 25vmin,
+      15vmin 15vmin,
+      2vmin 10vmin,
+      30vmin 10vmin,
+      12vmin 6vmin,
+      25vmin 1vmin,
+      37vmin 3vmin
+  }
