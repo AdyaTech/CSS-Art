@@ -13,6 +13,7 @@ Art created by using vanilla CSS
 | 7 | Watermelon | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Watermelon) |
 | 8 | Pepsi Logo | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Pepsi%20Logo) |
 | 9 | Git Logo | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Git%20Logo) |
+| 10 | Figma Logo | [Link](https://github.com/AdyaTech/CSS-Art/tree/main/Figma%20Logo) |
 
 ## Output
 1. Diamond
@@ -72,3 +73,10 @@ Art created by using vanilla CSS
 9. Git Logo
 
 ![This is the Git Logo output](https://github.com/AdyaTech/CSS-Art/blob/main/Git%20Logo/Git%20Logo.png)
+
+
+
+
+10. Figma Logo
+
+![This is the Figma Logo output](https://github.com/AdyaTech/CSS-Art/blob/main/Figma%20Logo/Figma.png)
